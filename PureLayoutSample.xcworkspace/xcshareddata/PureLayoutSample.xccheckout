@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>1B792340-7BA1-4B25-9B08-6A4F100DA6DD</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PureLayoutSample</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>51943C677541279EC1299A067682D6B6F0FB33FE</key>
+		<string>github-private:masaplabs/PureLayoutSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PureLayoutSample.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>51943C677541279EC1299A067682D6B6F0FB33FE</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>github-private:masaplabs/PureLayoutSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>51943C677541279EC1299A067682D6B6F0FB33FE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>51943C677541279EC1299A067682D6B6F0FB33FE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PureLayoutSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
