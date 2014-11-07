@@ -67,7 +67,7 @@ class CustomTableViewCell: UITableViewCell {
         picture.autoSetDimensionsToSize(CGSizeMake(30, 30))
         picture.autoPinEdgeToSuperviewEdge(ALEdge.Top, withInset: 10)
         picture.autoPinEdgeToSuperviewEdge(ALEdge.Left, withInset: 10)
-        
+
         // height: 20
         // margin-top: 10
         // margin-left: picture's right to 10
