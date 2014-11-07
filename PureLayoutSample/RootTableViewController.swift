@@ -58,6 +58,7 @@ class RootTableViewController: UITableViewController {
         }
         
         var text: String = ""
+        
         for (var i = 0; i < Int(indexPath.row); i++) {
             text = text + "This is Sample Text. Programmatically Swift Sample."
         }
